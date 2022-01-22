@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @brunogesoares
-- 👀 I’m interested in studying and work
+- 👋 Olá, sou o Bruno Guimarães E Soares: @brunogesoares
+- 👀 Meu interesse são estudos e trabalho, num futuro próximo (estou desempregado, mas estudando...)
 - 🌱 I’m currently learning Git and GitHub
 - 💞️ I’m looking to collaborate on Devs
 - 📫 How to reach me brunogesoares@gmail.com
