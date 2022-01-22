@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunogesoares
-- 👀 I’m interested in studying
+- 👀 I’m interested in studying and work
 - 🌱 I’m currently learning Git and GitHub
 - 💞️ I’m looking to collaborate on Devs
 - 📫 How to reach me brunogesoares@gmail.com
